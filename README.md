@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benedictusdps
+- 👋 Hi, I’m Benedictus Daniel from Indonesia
 - 👀 I’m interested in App Development, Data Science, Machine Learning, and Blockchain technology (specifically Smart Contract)
 - 🌱 I’m currently learning Python and R
 - 📫 You can reach me on my email: benedictusdps@gmail.com
