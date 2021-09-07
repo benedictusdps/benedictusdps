@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @benedictusdps
-- 👀 I’m interested in App Development, Machine Learning, and Blockchain technology (specifically Smart Contract)
+- 👀 I’m interested in App Development, Data Science, Machine Learning, and Blockchain technology (specifically Smart Contract)
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on my email: benedictusdps@gmail.com
 
 <!---
 benedictusdps/benedictusdps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
