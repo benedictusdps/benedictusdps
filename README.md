@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benedictus Daniel from Indonesia, currently working as a Senior Consultant
-- 👀 I’m interested in App Development, Data Science, Machine Learning, and Blockchain technology (specifically Smart Contract)
+- 👀 I’m interested in App Development, Automation, and Data Science
 - 🌱 I’m currently learning Python and R
 - 📫 You can reach me on my email: benedictusdps@gmail.com
 
