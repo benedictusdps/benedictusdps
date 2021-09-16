@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Benedictus Daniel from Indonesia, currently working as a Senior Consultant
-- 👀 I’m interested in App Development, Automation, and Data Science
-- 🌱 I’m currently learning Python and R
-- 📫 You can reach me on my email: <benedictusdps@gmail.com> or [linkedin] (https://www.linkedin.com/in/benedictusdps/)
+- 👋 Hi, I’m Benedictus Daniel from Indonesia, currently working as a Senior Consultant.
+- 👀 I’m interested in App Development, Automation, and Data Science.
+- 🌱 I’m currently learning Python and R.
+- 📫 You can reach me on my email: <benedictusdps@gmail.com> or [linkedin](https://www.linkedin.com/in/benedictusdps/).
 
 <!---
 benedictusdps/benedictusdps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
