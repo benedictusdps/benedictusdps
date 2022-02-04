@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benedictus Daniel from Indonesia, currently working as a Consultant.
-- 👀 I’m interested in App Development, Automation, and Data Science.
-- 🌱 I’m currently learning Python and R.
+- 👀 I’m interested in App Development, Automation, and Data Science including Quantitative Research.
+- 🌱 I’m currently learning Python and C++.
 - 📫 You can reach me on my [Email](<benedictusdps@gmail.com>) or [LinkedIn](https://www.linkedin.com/in/benedictusdps/).
 
 <!---
