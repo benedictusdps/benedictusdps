@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benedictus Daniel from Indonesia, currently working as a Strategy and Transaction Consultant in EY.
-- 👀 I’m interested in App Development, Automation, Quantitative Finance and Data Science.
+- 👀 I’m interested in App Development, Automation, and Data Science (Quantitative Finance).
 - 🌱 I’m currently learning Python and R through [DataCamp](<https://www.datacamp.com/profile/benedictusdps>).
 - 📫 You can reach me on my [Email](<benedictusdps@gmail.com>) or [LinkedIn](https://www.linkedin.com/in/benedictusdps/).
 
