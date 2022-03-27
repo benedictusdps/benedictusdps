@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benedictus Daniel from Indonesia, currently working as a Strategy and Transaction Consultant in EY.
-- 👀 I’m interested in App Development, Automation, and Data Science.
+- 👀 I’m interested in App Development, Automation, and Data Science. My plan is to eventually become a software engineer.
 - 🌱 I’m currently learning Data Science and Web Development.
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/benedictusdps/).
 
