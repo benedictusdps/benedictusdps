@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Benedictus Daniel from Indonesia and I have 2.5 years of experience in Accounting and Finance as Accounting Advisory and M&A Lead Advisor.
+- 👋 Hi, I’m Benedictus Daniel from Indonesia.
+- 👋 I have 2.5 years of experience in Accounting and Finance as Accounting Advisory and M&A Lead Advisor.
 - 👀 I’m interested in App Development, Automation, and Data Science. My plan is to eventually use programming to enhance my financial skills.
 - 🌱 I’m currently learning Python for Data Science and Financial Analysis.
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/benedictusdps/) or email me at benedictusdps@gmail.com.
